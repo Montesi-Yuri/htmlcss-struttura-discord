@@ -15,8 +15,19 @@ GENERAL
     margin: 0 auto;
 }
 
+.header-top{
+    height: 80px;
+}
+
 
  /* 
  DEBUG
   */
 
+.header-top{
+    background-color: #ADD8E6;
+}
+
+.header-bottom{
+    background-color: #00008B;
+}
